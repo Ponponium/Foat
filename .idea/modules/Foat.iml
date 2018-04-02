@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Foat" external.linked.project.path="C:/IdeaProjects/FOAT" external.root.project.path="C:/IdeaProjects/FOAT" external.system.id="GRADLE" external.system.module.group="FoAT" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://C:/IdeaProjects/FOAT">
+      <excludeFolder url="file://C:/IdeaProjects/FOAT/.gradle" />
+      <excludeFolder url="file://C:/IdeaProjects/FOAT/build" />
+      <excludeFolder url="file://C:/IdeaProjects/FOAT/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
